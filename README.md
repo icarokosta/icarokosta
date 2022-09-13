@@ -1,7 +1,5 @@
 ### Olá! Eu sou Icaro Costa, bem vindo!
-<div align="left">
-<a href="https://github.com/icarokosta">
-  <img height="200em" img width="56%" src="https://github-readme-stats.vercel.app/api?username=icarokosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
 
 </div>
 <img align="center" alt="Rafa-Python" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
