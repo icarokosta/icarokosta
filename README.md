@@ -1,8 +1,9 @@
 ### Olá! Eu sou Icaro Costa, bem vindo!
 
-
-  
+<a href="https://github.com/icarokosta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=icarokosta&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarokosta&layout=compact&theme=dark&hide_border=true" /></a>
+ 
 </div>
+
 <img align="center" alt="Rafa-Python" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 
